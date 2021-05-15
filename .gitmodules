@@ -1,0 +1,3 @@
+[submodule "test/fhentai"]
+	path = test/fhentai
+	url = https://github.com/IronKinoko/fhentai
